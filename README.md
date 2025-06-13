@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ### I'm a Data scientist & Data Analytic!
 
-- 🔎 I look for a job and dream team
-- 🎯 My principe: constantly develop myself and to do excellent my work
-- 🍭 And sweets: I kissed my dog 213 times in one day
+- 🔎 I'm always in search of interesting tasks
+- 🎯 My principles: constant development and excellent work
+- 🪐 Mindset: Kill 'em with kindness
